@@ -1,0 +1,44 @@
+/* src/styles.css */
+/* src/styles.css */
+
+@font-face {
+    font-family: 'SoDoSans';
+    src: local('SoDoSans'), url('./fonts/SoDoSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'SoDoSansSemi-Bold';
+    src: local('SoDoSans'), url('./fonts/SoDoSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'SoDoSans-Bold';
+    src: local('SoDoSans'), url('./fonts/SoDoSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  *{
+    font-family: 'SoDoSans' ;
+    
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  button{
+    font-family: 'SoDoSans-Bold';
+    font-weight: 700;
+  }
+
+.container1{
+    max-width:  88rem;
+    margin: 0 auto;
+    padding: 0 3rem;
+   
+}

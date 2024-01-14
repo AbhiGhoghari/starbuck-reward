@@ -1,0 +1,28 @@
+.hero-wrapper{
+    
+    background-color: #d4e9e2;
+    background-image: url("../../assets/xl-hero-desktop_2021.png");
+    background-position: 50%;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 4em;
+}
+
+.green{
+    background-color: #008248;
+    border: 0;
+
+}
+
+.hero-text-wrapper{
+    width: 100%;
+    padding-bottom: 200px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+.text{
+    padding-top: 300px;
+}
+
